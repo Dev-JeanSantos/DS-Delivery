@@ -1,0 +1,89 @@
+[33mcommit 3e2652c8aec96549f34808479bc7c6c6c0e4c5f0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Fri Jan 8 18:21:29 2021 -0300
+
+    Search order location
+
+[33mcommit 8ecb804a32fa4322c718039a33e150be99fd4b64[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Fri Jan 8 18:13:55 2021 -0300
+
+    Search order location
+
+[33mcommit c99d3b0a7b84de01183df0f096866329cc81a781[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Thu Jan 7 19:09:55 2021 -0300
+
+    Back-end connection with fron-end and data formatting
+
+[33mcommit 1f3d428415b71d5cbd18032a20cdec5c7fc8e561[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Thu Jan 7 17:43:09 2021 -0300
+
+    Add routes and StepsHeader
+
+[33mcommit 22bf391eaafaf37c7c7c3233caedd371e65d6692[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Thu Jan 7 09:42:05 2021 -0300
+
+    Add Footer
+
+[33mcommit f9377a7873a64b7b7c8e16da823aadf0ea1b11ac[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Thu Jan 7 09:00:35 2021 -0300
+
+    Add Home page
+
+[33mcommit 4092e35e4c8edfbc24739efe18d22ce681fbc61f[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Thu Jan 7 08:35:27 2021 -0300
+
+    Add Navbar
+
+[33mcommit 3fc941ed67b6d8eea7b3b33a667dfec14120578b[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 22:49:32 2021 -0300
+
+    Ready to prod
+
+[33mcommit 871473f5f8e0bed9906745fb965c8aafa21af06f[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 22:24:39 2021 -0300
+
+    PUT /orders/{id}/delivered
+
+[33mcommit 5b96fc467bd850a7a09ec0170f626168abf99fc2[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 22:05:49 2021 -0300
+
+    POST /orders
+
+[33mcommit 40c9dd5a6dac2a8adbbc3f5da5e9c1b5174ac8fb[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 20:37:28 2021 -0300
+
+    GET /orders
+
+[33mcommit 24f674968a02d036dfbc7c81532d938f70d6d224[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 19:50:36 2021 -0300
+
+    GET /Products
+
+[33mcommit b27cea1ecbc11a288480d9173b97c96d75ff1593[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 18:46:48 2021 -0300
+
+    Domain Model
+
+[33mcommit 338d0989f2d8e59cce6fef56ec5727b2c1d98024[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 18:13:08 2021 -0300
+
+    Initial Setup
+
+[33mcommit d27af9ac3a3f3223b0feb7da740f2c27ecf5ec59[m
+Author: Jean Santos <jeancbsan@gmail.com>
+Date:   Mon Jan 4 17:10:35 2021 -0300
+
+    Project Created
