@@ -13,7 +13,11 @@ A aplicação consiste no gerenciamento de pratos especiais da culinária brasil
 
 ![Web 1](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/home.jpg)
 
-![Web 2](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/menu2.jpg)
+![Web 2](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/menu3.jpg)
+
+![Web 3](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/menu%204.jpg)
+
+![Web 4](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/mapa.jpg)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png)
