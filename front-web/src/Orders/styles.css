@@ -32,6 +32,10 @@
   list-style-type: none;
 }
 
+.step-li{
+  list-style-type: none;
+}
+
 .steps-items li {
   font-weight: normal;
   font-size: 18px;
@@ -40,7 +44,16 @@
   color: var(--secondary-color);
 }
 
-.steps-items .steps-number {
+.steps-number{
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 33px;
+  letter-spacing: -0.015em;
+  color: var(--primary-color);
+  margin-right: 10px;
+}
+.steps-items  {
   font-size: 24px;
   font-style: normal;
   font-weight: bold;

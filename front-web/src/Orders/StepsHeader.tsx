@@ -6,12 +6,12 @@ function StepsHeader() {
                     SIGA AS <br /> ETAPAS
                 </h1>
                 <ul className="step-items">
-                    <li>
-                        <span className="steps-number">1</span>
+                    <li className="step-li">
+                        <span className="steps-number">1º -</span>
                         Selecione os produtos e localização
                     </li>
-                    <li>
-                        <span className="steps-number">2</span>
+                    <li  className="step-li">
+                        <span className="steps-number">2º -</span>
                         Depois clique em <strong>"ENVIAR PEDIDO"</strong> 
                     </li>
                 </ul>
