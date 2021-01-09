@@ -3,6 +3,8 @@
 
 # Sobre o projeto
 
+https://sds-delivery.netlify.app/
+
 O DSDelivery é uma aplicação full stack web construída como projeto de estudo com finalidade de aplicar os conceitos práticos e téoricos dos contéudos adquiridos no SEMANA DEV-SUPERIOR 2.0 organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste no gerenciamento de pratos especiais da culinária brasileira e disponibiliza um sistema rápido, prático e seguro da entrega de sua refeição predileta.
