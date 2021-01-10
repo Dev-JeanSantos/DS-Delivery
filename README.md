@@ -9,7 +9,7 @@ O DSDelivery é uma aplicação full stack web construída como projeto de estud
 
 A aplicação consiste no gerenciamento de pratos especiais da culinária brasileira e disponibiliza um sistema rápido, prático e seguro da entrega de sua refeição predileta.
 
-## Layout web
+## Layout Web
 
 ![Web 1](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/home.jpg)
 
@@ -18,6 +18,18 @@ A aplicação consiste no gerenciamento de pratos especiais da culinária brasil
 ![Web 3](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/menu%204.jpg)
 
 ![Web 4](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/mapa.jpg)
+
+## Layout Mobile
+
+![Mobile 1](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/home_mobile.png)
+
+![Mobile 2](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/detalhes_pedidos_mobile.png)
+
+![Mobile 3](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/confirma%C3%A7%C3%A3o_entrega_pedido_mobile.png)
+
+![Mobile 4](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/pedidos_mobile.png)
+
+![Mobile 5](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/rotas_pedido_entrega_mobile.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png)
