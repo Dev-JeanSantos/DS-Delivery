@@ -21,7 +21,7 @@ A aplicação consiste no gerenciamento de pratos especiais da culinária brasil
 
 ## Layout Mobile
 
-![Mobile 1](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/home_mobile.png)
+![Web 1](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/home_mobile.png){:height="50%" width="50%"}
 
 ![Mobile 2](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/detalhes_pedidos_mobile.png)
 
